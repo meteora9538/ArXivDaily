@@ -17,5 +17,5 @@ NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
 # Keywords to search
 KEYWORD_LIST = ["star formation", "star-forming", "angular momentum", "spin", "disk galaxy", "fast rotator", "IMF", "environment", "brightest cluster galaxies", "H alpha emitter"]
 # Keywords to exclude
-KEYWORD_EX_LIST = ["gravitational wave", "dark energy"]
+KEYWORD_EX_LIST = ["gravitational wave"]
 # Note that the 'Keywords' above are actually searched in the abstract instead of the real keyword section. 
